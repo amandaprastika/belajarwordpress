@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1366 609">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: rgba(140,141,130,0.15);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_18" data-name="Rectangle 18" class="cls-1" width="1366" height="609" transform="translate(0 3071)"/>
+    </clipPath>
+  </defs>
+  <g id="bg_activities" class="cls-2" transform="translate(0 -3071)">
+    <g id="Group_8" data-name="Group 8">
+      <path id="Path_3" data-name="Path 3" class="cls-3" d="M1054.944-895.032h20.988l-949.6,1578.3H105Z" transform="translate(315.626 3001.734)"/>
+      <path id="Path_4" data-name="Path 4" class="cls-3" d="M837.732-899.324v221.758l-.3,1361.044H-115Z" transform="translate(577.602 2997.522)"/>
+    </g>
+  </g>
+</svg>
